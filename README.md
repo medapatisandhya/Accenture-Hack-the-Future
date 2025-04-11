@@ -1,5 +1,9 @@
 # Customer 360 Agentic Solution for Retail Banking
 
+🔗 Live App: https://accenture-hack-the-future-hotc2aiz9q5rezmpanbxpw.streamlit.app/
+🎥 Demo Video: https://drive.google.com/file/d/1QMjKZF-v3-XPG0wT-PtQcgiWE4v1jGXO/view?usp=drive_link
+
+
 This is a Streamlit-based dashboard that analyzes customer behavior and recommends personalized products using a Customer 360 model.
 
 ## 🔧 Setup Instructions
